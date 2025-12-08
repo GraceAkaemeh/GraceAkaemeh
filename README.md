@@ -1,7 +1,7 @@
 # Grace Akaemeh
 
 ## Junior Software Developer (Trainee)
-Fachinformatikerin für Anwendungsentwicklung • Java • Python • HTML • CSS • MySQL
+Fachinformatikerin für Anwendungsentwicklung / Software developer • Java • Python • HTML • CSS • MySQL
 
 I am a Berlin-based junior developer currently training as a Fachinformatikerin für Anwendungsentwicklung at GFN.  
 I focus on building structured, functional software projects while improving my Java, OOP, and web development skills.
