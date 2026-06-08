@@ -34,7 +34,8 @@ I focus on building structured, functional software projects while improving my 
 - Currently learning: Java (OOP, Classes, Methods, Inheritance, File I/O, JDBC)  
 - Preparing for internship starting March 2026  
 - Nigerian, living in Berlin Germany  
-- Focused on clean code, functional UI, and continuous improvement  
+- Focused on clean code, functional UI, and continuous improvement
+- Learning one step at a time, with purpose and consistency.  
 
 ---
 
@@ -52,4 +53,4 @@ I welcome recruiters or collaborators to reach out.
 
 ---
 
-I am learning one step at a time, with purpose and consistency.
+
