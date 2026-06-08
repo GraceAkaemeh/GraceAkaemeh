@@ -10,21 +10,21 @@ I focus on building structured, functional software projects while improving my 
 
 ## Technical Skills
 
-| Languages | Tools & Technologies            |      Concepts              |
-|-----------|---------------------------------|----------------------------|
-| Java      | Git, GitHub                     | OOP, File I/O, JDBC        |
-| Python    | IntelliJ IDEA, Eclipse, VS Code | CRUD operations            |
-| HTML/CSS  | MySQL / MariaDB                 | Data structures, UI design |
+| Languages                     | Tools & Technologies                                    |      Concepts                       |
+|-------------------------------|-------------------------------------------------------- |----------------------------         |
+| Java                          | Git, GitHub                                             | OOP, File I/O, JDBC                 |
+| Python                        | IntelliJ IDEA, Eclipse, VS Code                         | CRUD operations                     |
+| HTML/CSS                      | MySQL / MariaDB                                         | Data structures, UI design          |
 
 ---
 
 ## Projects
 
-| Project Name                  | Description                                            | Skills Practiced |
-|-------------------------------|--------------------------------------------------------|----------------|
-| Password Manager (GUI)        | Java desktop app to store and encrypt passwords        | Java, OOP, GUI, File I/O |
-| Customer Management System    | CRUD Java app with data modeling                       | Java, OOP, File handling, Arrays |
-| Time Tracking / Zeiterfassung | Track work hours, calculate totals, generate summaries | Java, Arrays, File I/O, Basic GUI |
+| Project Name                  | Description                                            | Skills Practiced                     |
+|-------------------------------|--------------------------------------------------------|-----------------------               |
+| Password Manager (GUI)        | Java desktop app to store and encrypt passwords        | Java, OOP, GUI, File I/O             |
+| Customer Management System    | CRUD Java app with data modeling                       | Java, OOP, File handling, Arrays     |
+| Time Tracking / Zeiterfassung | Track work hours, calculate totals, generate summaries | Java, Arrays, File I/O, Basic GUI    |
 | Portfolio Website             | Modern HTML/CSS website to showcase skills             | HTML, CSS, Web layout, Accessibility |
 
 ---
