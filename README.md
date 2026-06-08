@@ -52,4 +52,4 @@ I welcome recruiters or collaborators to reach out.
 
 ---
 
-“Learning one step at a time, with purpose and consistency.”
+I am learning one step at a time, with purpose and consistency.
