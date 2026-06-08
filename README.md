@@ -14,7 +14,7 @@ I focus on building structured, functional software projects while improving my 
 |-------------------------------|-------------------------------------------------------- |-----------------------------------  |
 | Java                          | Git, GitHub                                             | OOP, File I/O, JDBC                 |
 | Python                        | IntelliJ IDEA, Eclipse, VS Code                         | CRUD operations                     |
-| HTML/CSS                      | MySQL / MariaDB                                         | Data structures, UI design          |
+| HTML/CSS                      | MySQL / MariaDB                                         | Data structures, UI design    or else      |
 
 ---
 
